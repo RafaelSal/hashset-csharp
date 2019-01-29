@@ -1,0 +1,11 @@
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\bin\Debug\netcoreapp2.1\hashset.deps.json
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\bin\Debug\netcoreapp2.1\hashset.runtimeconfig.json
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\bin\Debug\netcoreapp2.1\hashset.runtimeconfig.dev.json
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\bin\Debug\netcoreapp2.1\hashset.dll
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\bin\Debug\netcoreapp2.1\hashset.pdb
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.csprojAssemblyReference.cache
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.csproj.CoreCompileInputs.cache
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.AssemblyInfoInputs.cache
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.AssemblyInfo.cs
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.dll
+C:\Users\Rafa's PC\Desktop\TI\repositores\hashset-csharp\hashset\hashset\obj\Debug\netcoreapp2.1\hashset.pdb
